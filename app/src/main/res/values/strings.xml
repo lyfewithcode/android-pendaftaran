@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pendaftaran</string>
+
+    <string-array name="array_pendidikan">
+        <item>SD</item>
+        <item>SMP</item>
+        <item>SMA/K</item>
+        <item>D3</item>
+        <item>S1</item>
+        <item>S2</item>
+        <item>S3</item>
+    </string-array>
+</resources>
